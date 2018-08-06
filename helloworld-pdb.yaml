@@ -1,5 +1,5 @@
 ---
-apiVersion: policy/v1bet1
+apiVersion: policy/v1beta1
 kind: PodDisruptionBudget
 metadata:
   name: helloworld
